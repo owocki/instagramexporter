@@ -7,4 +7,6 @@ There are a few good tools around the web for exporting instagram photos from yo
 Cheers, and happy instagramming!
 
 
+<!-- Google Analytics --> 
+<img src='https://ga-beacon.appspot.com/UA-1014419-15/owocki/instagramexporter' style='width:1px; height:1px;' >
 

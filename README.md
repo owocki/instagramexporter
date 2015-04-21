@@ -1,3 +1,5 @@
+*** WARNING: This project is no longer supported ***
+
 There are a few good tools around the web for exporting instagram photos from your account.  Unfortunately, these tools only allow you to export you *own* photos from Instagram.  Well, I’d like to be able to copies of other photos on Instagram too.
 
 [Here](http://owocki.com/tools/export-instagram-photos-bookmarklet/) is a bookmarklet that allows me to export anyone’s instagram photos.  Drag this bookmarklet into your browser bookmark bar and navigate to instagram.com to use it.

@@ -1,4 +1,5 @@
-*** WARNING: This project is no longer supported ***
+EDIT: This bookmarklet is now defunct -- I recommend users migrate to [this IFTTT recipe](https://ifttt.com/recipes/14475-copy-liked-instagram-photos-to-dropbox).
+
 
 There are a few good tools around the web for exporting instagram photos from your account.  Unfortunately, these tools only allow you to export you *own* photos from Instagram.  Well, I’d like to be able to copies of other photos on Instagram too.
 
